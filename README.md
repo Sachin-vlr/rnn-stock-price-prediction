@@ -112,7 +112,7 @@ plt.show()
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
-
+![image](https://github.com/Sachin-vlr/rnn-stock-price-prediction/assets/113497666/c502fcbd-392a-4c90-aaa7-94a3b5b5aad9)
 
 ### Mean Square Error
 
